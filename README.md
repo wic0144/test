@@ -1,2 +1,2 @@
 # test
-ProjectC1.0
+ProjectB1.0
